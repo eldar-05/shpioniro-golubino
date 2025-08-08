@@ -28,7 +28,7 @@ jobs:
       - name: Run fetch script
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          FRIENDS: ${{ secrets.FRIENDS_LIST }}
         run: python scripts/fetch_repos.py
 
       - name: Commit & push changes

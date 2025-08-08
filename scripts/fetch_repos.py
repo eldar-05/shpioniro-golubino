@@ -13,24 +13,19 @@ TODAY = datetime.datetime.utcnow().date().isoformat()
 TODAY_FILE = DATA_DIR / f"{TODAY}.json"
 DOCS_LATEST = DOCS_DIR / "latest.json"
 
-TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
+TOKEN = os.getenv("GITHUB_TOKEN")
 if not TOKEN:
-    print("ERROR: No GH_TOKEN or GITHUB_TOKEN provided in env. Exiting.")
+    print("ERROR: No GITHUB_TOKEN provided in env. Exiting.")
     exit(1)
 
 HEADERS = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
 
 friends_env = os.getenv("FRIENDS")
-if friends_env:
-    friends = [f.strip() for f in friends_env.split(",") if f.strip()]
-else:
-    print("Fetching list of followed users (/user/following)...")
-    r = requests.get("https://api.github.com/user/following", headers=HEADERS)
-    if r.status_code != 200:
-        print("Failed to fetch following:", r.status_code, r.text)
-        print("If you prefer, set FRIENDS env to a comma-separated list of usernames.")
-        exit(1)
-    friends = [f["login"] for f in r.json()]
+if not friends_env:
+    print("ERROR: FRIENDS env variable not set. Exiting.")
+    exit(1)
+
+friends = [f.strip() for f in friends_env.split(",") if f.strip()]
 
 print("Checking public repos for:", friends)
 
