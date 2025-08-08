@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Архив репозиториев</title>
+  <style>
+    body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial; max-width: 900px; margin: 40px auto; padding: 0 16px; color:#111; }
+    h1 { font-size: 24px; margin-bottom:8px; }
+    .date-list a { display:block; padding:8px 0; border-bottom:1px solid #eee; color:#0366d6; text-decoration:none; }
+    .nav { margin-bottom: 20px; }
+    .nav a { margin-right: 15px; text-decoration:none; color:#0366d6; }
+    .empty { text-align:center; margin-top:40px; color:#777; font-size:18px; }
+  </style>
+</head>
+<body>
+  <div class="nav">
+    <a href="index.html">Главная</a>
+    <a href="archive.html">Архив</a>
+  </div>
+  <h1>Архив по датам</h1>
+  <div id="dates">Загрузка...</div>
+
+  <script>
+    async function loadDates() {
+      try {
+        const res = await fetch('dates.json', {cache: "no-store"});
+        if (!res.ok) throw new Error("no dates");
+        const dates = await res.json();
+        const root = document.getElementById('dates');
+        if (!dates || dates.length === 0) {
+          root.innerHTML = '<div class="empty">Архив пуст</div>';
+          return;
+        }
+        root.innerHTML = dates.map(d => `<a href="day.html?date=${d}">${d}</a>`).join('');
+      } catch (e) {
+        document.getElementById('dates').innerHTML = '<div class="empty">Ошибка загрузки дат.</div>';
+        console.error(e);
+      }
+    }
+    loadDates();
+  </script>
+</body>
+</html>

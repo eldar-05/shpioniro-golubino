@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Архив за день</title>
+  <style>
+    body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial; max-width: 900px; margin: 40px auto; padding: 0 16px; color:#111; }
+    h1 { font-size: 24px; margin-bottom:8px; }
+    .item { border-bottom:1px solid #eee; padding:12px 0; }
+    .repo { font-weight:600; font-size:16px; color:#0366d6; text-decoration:none; }
+    .meta { color:#555; font-size:13px; margin-top:4px; }
+    pre { background:#f8f8f8; padding:10px; white-space:pre-wrap; overflow:auto; }
+    .empty { text-align:center; margin-top:40px; color:#777; font-size:18px; }
+    .nav { margin-bottom: 20px; }
+    .nav a { margin-right: 15px; text-decoration:none; color:#0366d6; }
+  </style>
+</head>
+<body>
+  <div class="nav">
+    <a href="index.html">Главная</a>
+    <a href="archive.html">Архив</a>
+  </div>
+  <h1 id="title">Архив</h1>
+  <div id="content">Загрузка...</div>
+
+  <script>
+    function getQueryParam(name) {
+      return new URLSearchParams(window.location.search).get(name);
+    }
+    async function load() {
+      const date = getQueryParam("date");
+      document.getElementById('title').innerText = `Архив за ${date}`;
+      try {
+        const r = await fetch(`../data/${date}.json`, {cache: "no-store"});
+        if (!r.ok) throw new Error("no data");
+        const data = await r.json();
+        const root = document.getElementById('content');
+        if (!data || data.length === 0) {
+          root.innerHTML = '<div class="empty">Пусто за этот день</div>';
+          return;
+        }
+        root.innerHTML = data.map(it => {
+          const name = `<a class="repo" href="${it.html_url}" target="_blank">${it.full_name}</a>`;
+          const desc = it.description ? `<div class="meta">${it.description}</div>` : '';
+          const pre = it.readme_snippet ? `<pre>${escapeHtml(it.readme_snippet)}</pre>` : '';
+          const created = it.created_at ? `<div class="meta">Создан: ${it.created_at}</div>` : '';
+          return `<div class="item">${name}${desc}${created}${pre}</div>`;
+        }).join('');
+      } catch (e) {
+        document.getElementById('content').innerHTML = '<div class="empty">Ошибка загрузки</div>';
+        console.error(e);
+      }
+    }
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>"']/g, function(m){ return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":"&#39;"})[m]; });
+    }
+    load();
+  </script>
+</body>
+</html>
