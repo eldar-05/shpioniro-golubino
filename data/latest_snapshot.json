@@ -1,1991 +1,1991 @@
-[
-  {
-    "full_name": "git-aidai-kydykbekova/front_final",
+{
+  "git-aidai-kydykbekova/front_final": {
     "name": "front_final",
+    "full_name": "git-aidai-kydykbekova/front_final",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/front_final",
     "description": null,
     "created_at": "2024-12-10T07:31:29Z",
-    "readme_snippet": "# Simple Calculator\n\nThis is a simple calculator application built using HTML, CSS, and JavaScript. It supports basic arithmetic operations, advanced functions like square root and percentage, and a scientific mode with trigonometric functions.\n\n## Features"
+    "updated_at": "2024-12-14T06:21:27Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/db_project",
+  "git-aidai-kydykbekova/db_project": {
     "name": "db_project",
+    "full_name": "git-aidai-kydykbekova/db_project",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/db_project",
     "description": null,
     "created_at": "2024-12-10T04:11:05Z",
-    "readme_snippet": null
+    "updated_at": "2024-12-10T15:24:10Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/database_project",
+  "git-aidai-kydykbekova/database_project": {
     "name": "database_project",
+    "full_name": "git-aidai-kydykbekova/database_project",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/database_project",
     "description": null,
     "created_at": "2024-12-05T14:35:15Z",
-    "readme_snippet": null
+    "updated_at": "2024-12-05T14:36:40Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/midterm_project",
+  "git-aidai-kydykbekova/midterm_project": {
     "name": "midterm_project",
+    "full_name": "git-aidai-kydykbekova/midterm_project",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/midterm_project",
     "description": null,
     "created_at": "2024-10-31T04:42:05Z",
-    "readme_snippet": "# Frontend Development Course Project"
+    "updated_at": "2024-11-07T14:46:36Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/SchoolSystem",
+  "git-aidai-kydykbekova/SchoolSystem": {
     "name": "SchoolSystem",
+    "full_name": "git-aidai-kydykbekova/SchoolSystem",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/SchoolSystem",
     "description": null,
     "created_at": "2024-10-29T03:28:24Z",
-    "readme_snippet": "# School Management Web Application\n\n## Overview\n\nThis web application aims to automate key processes involved in managing school activities. It enhances the quality of education by freeing up more time for teachers and administrators to focus on educational activities, thereby improving the overall learning experience and resource utilization."
+    "updated_at": "2024-12-02T03:46:06Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/frontend_course",
+  "git-aidai-kydykbekova/frontend_course": {
     "name": "frontend_course",
+    "full_name": "git-aidai-kydykbekova/frontend_course",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/frontend_course",
     "description": null,
     "created_at": "2024-10-15T08:10:26Z",
-    "readme_snippet": "# frontend_course"
+    "updated_at": "2024-11-29T15:51:46Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/test",
+  "git-aidai-kydykbekova/test": {
     "name": "test",
+    "full_name": "git-aidai-kydykbekova/test",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/test",
     "description": null,
     "created_at": "2024-09-20T03:55:29Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-20T05:50:47Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/cv_frontend",
+  "git-aidai-kydykbekova/cv_frontend": {
     "name": "cv_frontend",
+    "full_name": "git-aidai-kydykbekova/cv_frontend",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/cv_frontend",
     "description": null,
     "created_at": "2024-09-16T09:21:31Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-16T10:52:09Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/compMath",
+  "git-aidai-kydykbekova/compMath": {
     "name": "compMath",
+    "full_name": "git-aidai-kydykbekova/compMath",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/compMath",
     "description": null,
     "created_at": "2024-09-13T10:31:01Z",
-    "readme_snippet": "# compMath"
+    "updated_at": "2024-10-03T09:48:47Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/final_web",
+  "git-aidai-kydykbekova/final_web": {
     "name": "final_web",
+    "full_name": "git-aidai-kydykbekova/final_web",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/final_web",
     "description": null,
     "created_at": "2024-05-12T11:47:50Z",
-    "readme_snippet": "# Веб-сайт туров по Кыргызстану\n\n## Описание\nЭтот веб-сайт создан для предоставления информации о различных турах по Кыргызстану, включая детальное описание трехдневного тура \"Великолепие Кыргызстана\". На сайте представлена информация о маршрутах, отелях, стоимости и других услугах, связанных с туризмом в этом регионе."
+    "updated_at": "2024-05-12T17:22:46Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/demo-hack",
+  "git-aidai-kydykbekova/demo-hack": {
     "name": "demo-hack",
+    "full_name": "git-aidai-kydykbekova/demo-hack",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/demo-hack",
     "description": null,
     "created_at": "2024-05-01T16:04:40Z",
-    "readme_snippet": null
+    "updated_at": "2024-05-01T16:09:46Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/chat",
+  "git-aidai-kydykbekova/chat": {
     "name": "chat",
+    "full_name": "git-aidai-kydykbekova/chat",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/chat",
     "description": null,
     "created_at": "2024-04-24T18:34:45Z",
-    "readme_snippet": null
+    "updated_at": "2024-04-24T18:38:58Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/final-project_aboutMe",
+  "git-aidai-kydykbekova/final-project_aboutMe": {
     "name": "final-project_aboutMe",
+    "full_name": "git-aidai-kydykbekova/final-project_aboutMe",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/final-project_aboutMe",
     "description": null,
     "created_at": "2024-03-29T09:23:57Z",
-    "readme_snippet": "Web Design Portfolio\n\nWelcome to my Web Design Portfolio! This portfolio is a comprehensive showcase of my web design and development skills, featuring a selection of projects that demonstrate my expertise in creating visually appealing and user-friendly websites.\n\nWhy a Portfolio?"
+    "updated_at": "2024-03-29T09:24:04Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/webpage-aboutMe",
+  "git-aidai-kydykbekova/webpage-aboutMe": {
     "name": "webpage-aboutMe",
+    "full_name": "git-aidai-kydykbekova/webpage-aboutMe",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/webpage-aboutMe",
     "description": null,
     "created_at": "2024-02-24T12:29:09Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-24T12:29:20Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/project-web",
+  "git-aidai-kydykbekova/project-web": {
     "name": "project-web",
+    "full_name": "git-aidai-kydykbekova/project-web",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/project-web",
     "description": null,
     "created_at": "2024-02-15T09:24:24Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-15T09:24:31Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/e-shop",
+  "git-aidai-kydykbekova/e-shop": {
     "name": "e-shop",
+    "full_name": "git-aidai-kydykbekova/e-shop",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/e-shop",
     "description": null,
     "created_at": "2024-02-12T09:22:04Z",
-    "readme_snippet": null
+    "updated_at": "2024-05-19T13:49:20Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/ship_battle",
+  "git-aidai-kydykbekova/ship_battle": {
     "name": "ship_battle",
+    "full_name": "git-aidai-kydykbekova/ship_battle",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/ship_battle",
     "description": null,
     "created_at": "2024-01-30T17:50:26Z",
-    "readme_snippet": null
+    "updated_at": "2024-01-30T17:51:23Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/online_shop",
+  "git-aidai-kydykbekova/online_shop": {
     "name": "online_shop",
+    "full_name": "git-aidai-kydykbekova/online_shop",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/online_shop",
     "description": null,
     "created_at": "2024-01-20T11:51:07Z",
-    "readme_snippet": null
+    "updated_at": "2024-04-16T08:33:22Z"
   },
-  {
-    "full_name": "git-aidai-kydykbekova/bootcamp",
+  "git-aidai-kydykbekova/bootcamp": {
     "name": "bootcamp",
+    "full_name": "git-aidai-kydykbekova/bootcamp",
     "owner": "git-aidai-kydykbekova",
     "html_url": "https://github.com/git-aidai-kydykbekova/bootcamp",
     "description": null,
     "created_at": "2024-01-09T12:59:18Z",
-    "readme_snippet": null
+    "updated_at": "2024-01-11T07:52:23Z"
   },
-  {
-    "full_name": "Zhanerrke588595/PORTFOLIO",
+  "Zhanerrke588595/PORTFOLIO": {
     "name": "PORTFOLIO",
+    "full_name": "Zhanerrke588595/PORTFOLIO",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/PORTFOLIO",
     "description": null,
     "created_at": "2025-07-16T17:56:13Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-16T17:58:41Z"
   },
-  {
-    "full_name": "Zhanerrke588595/univer",
+  "Zhanerrke588595/univer": {
     "name": "univer",
+    "full_name": "Zhanerrke588595/univer",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/univer",
     "description": null,
     "created_at": "2025-07-15T18:47:12Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-15T18:48:06Z"
   },
-  {
-    "full_name": "Zhanerrke588595/timee",
+  "Zhanerrke588595/timee": {
     "name": "timee",
+    "full_name": "Zhanerrke588595/timee",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/timee",
     "description": null,
     "created_at": "2025-07-15T15:26:18Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-15T15:27:04Z"
   },
-  {
-    "full_name": "Zhanerrke588595/shoes",
+  "Zhanerrke588595/shoes": {
     "name": "shoes",
+    "full_name": "Zhanerrke588595/shoes",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/shoes",
     "description": null,
     "created_at": "2025-07-15T14:59:07Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-15T15:00:12Z"
   },
-  {
-    "full_name": "Zhanerrke588595/search",
+  "Zhanerrke588595/search": {
     "name": "search",
+    "full_name": "Zhanerrke588595/search",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/search",
     "description": null,
     "created_at": "2025-07-15T14:06:51Z",
-    "readme_snippet": "# Frontend Mentor - Devjobs web app\n\n![Design preview for the Devjobs web app coding challenge](./preview.jpg)\n\n## Welcome! 👋"
+    "updated_at": "2025-07-15T14:08:48Z"
   },
-  {
-    "full_name": "Zhanerrke588595/mrtkombat",
+  "Zhanerrke588595/mrtkombat": {
     "name": "mrtkombat",
+    "full_name": "Zhanerrke588595/mrtkombat",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/mrtkombat",
     "description": "a website of a game",
     "created_at": "2025-07-15T13:43:09Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-15T13:43:09Z"
   },
-  {
-    "full_name": "Zhanerrke588595/iomus",
+  "Zhanerrke588595/iomus": {
     "name": "iomus",
+    "full_name": "Zhanerrke588595/iomus",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/iomus",
     "description": null,
     "created_at": "2025-07-14T14:37:37Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T14:39:52Z"
   },
-  {
-    "full_name": "Zhanerrke588595/musiccc",
+  "Zhanerrke588595/musiccc": {
     "name": "musiccc",
+    "full_name": "Zhanerrke588595/musiccc",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/musiccc",
     "description": null,
     "created_at": "2025-07-14T14:26:05Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T14:29:41Z"
   },
-  {
-    "full_name": "Zhanerrke588595/muic",
+  "Zhanerrke588595/muic": {
     "name": "muic",
+    "full_name": "Zhanerrke588595/muic",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/muic",
     "description": null,
     "created_at": "2025-07-14T14:18:26Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T14:21:23Z"
   },
-  {
-    "full_name": "Zhanerrke588595/mius",
+  "Zhanerrke588595/mius": {
     "name": "mius",
+    "full_name": "Zhanerrke588595/mius",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/mius",
     "description": null,
     "created_at": "2025-07-14T14:15:59Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T14:16:43Z"
   },
-  {
-    "full_name": "Zhanerrke588595/musicc",
+  "Zhanerrke588595/musicc": {
     "name": "musicc",
+    "full_name": "Zhanerrke588595/musicc",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/musicc",
     "description": null,
     "created_at": "2025-07-14T13:38:38Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T13:38:38Z"
   },
-  {
-    "full_name": "Zhanerrke588595/muss",
+  "Zhanerrke588595/muss": {
     "name": "muss",
+    "full_name": "Zhanerrke588595/muss",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/muss",
     "description": null,
     "created_at": "2025-07-14T13:14:19Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T13:14:19Z"
   },
-  {
-    "full_name": "Zhanerrke588595/music",
+  "Zhanerrke588595/music": {
     "name": "music",
+    "full_name": "Zhanerrke588595/music",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/music",
     "description": null,
     "created_at": "2025-07-14T12:52:32Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T12:52:32Z"
   },
-  {
-    "full_name": "Zhanerrke588595/todo",
+  "Zhanerrke588595/todo": {
     "name": "todo",
+    "full_name": "Zhanerrke588595/todo",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/todo",
     "description": null,
     "created_at": "2025-07-14T10:37:08Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-14T10:37:56Z"
   },
-  {
-    "full_name": "Zhanerrke588595/extent",
+  "Zhanerrke588595/extent": {
     "name": "extent",
+    "full_name": "Zhanerrke588595/extent",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/extent",
     "description": null,
     "created_at": "2025-07-13T15:00:20Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-13T15:01:38Z"
   },
-  {
-    "full_name": "Zhanerrke588595/extn",
+  "Zhanerrke588595/extn": {
     "name": "extn",
+    "full_name": "Zhanerrke588595/extn",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/extn",
     "description": null,
     "created_at": "2025-07-13T14:55:03Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-13T14:56:22Z"
   },
-  {
-    "full_name": "Zhanerrke588595/ext",
+  "Zhanerrke588595/ext": {
     "name": "ext",
+    "full_name": "Zhanerrke588595/ext",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/ext",
     "description": null,
     "created_at": "2025-07-13T14:34:51Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-13T14:37:38Z"
   },
-  {
-    "full_name": "Zhanerrke588595/extensions",
+  "Zhanerrke588595/extensions": {
     "name": "extensions",
+    "full_name": "Zhanerrke588595/extensions",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/extensions",
     "description": null,
     "created_at": "2025-07-13T14:14:03Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-13T14:32:09Z"
   },
-  {
-    "full_name": "Zhanerrke588595/bankk",
+  "Zhanerrke588595/bankk": {
     "name": "bankk",
+    "full_name": "Zhanerrke588595/bankk",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/bankk",
     "description": null,
     "created_at": "2025-07-13T10:36:40Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-13T10:37:33Z"
   },
-  {
-    "full_name": "Zhanerrke588595/bank-cards",
+  "Zhanerrke588595/bank-cards": {
     "name": "bank-cards",
+    "full_name": "Zhanerrke588595/bank-cards",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/bank-cards",
     "description": null,
     "created_at": "2025-07-13T10:34:09Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-13T10:34:52Z"
   },
-  {
-    "full_name": "Zhanerrke588595/HEADPHONESSS",
+  "Zhanerrke588595/HEADPHONESSS": {
     "name": "HEADPHONESSS",
+    "full_name": "Zhanerrke588595/HEADPHONESSS",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/HEADPHONESSS",
     "description": null,
     "created_at": "2025-07-12T20:26:17Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T20:28:42Z"
   },
-  {
-    "full_name": "Zhanerrke588595/headphoness",
+  "Zhanerrke588595/headphoness": {
     "name": "headphoness",
+    "full_name": "Zhanerrke588595/headphoness",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/headphoness",
     "description": null,
     "created_at": "2025-07-12T20:05:24Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T20:16:01Z"
   },
-  {
-    "full_name": "Zhanerrke588595/HEADPHONES",
+  "Zhanerrke588595/HEADPHONES": {
     "name": "HEADPHONES",
+    "full_name": "Zhanerrke588595/HEADPHONES",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/HEADPHONES",
     "description": null,
     "created_at": "2025-07-12T19:43:24Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T20:03:06Z"
   },
-  {
-    "full_name": "Zhanerrke588595/shopp",
+  "Zhanerrke588595/shopp": {
     "name": "shopp",
+    "full_name": "Zhanerrke588595/shopp",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/shopp",
     "description": null,
     "created_at": "2025-07-12T19:30:08Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T19:37:12Z"
   },
-  {
-    "full_name": "Zhanerrke588595/travell",
+  "Zhanerrke588595/travell": {
     "name": "travell",
+    "full_name": "Zhanerrke588595/travell",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/travell",
     "description": null,
     "created_at": "2025-07-12T19:22:00Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T19:23:33Z"
   },
-  {
-    "full_name": "Zhanerrke588595/travel",
+  "Zhanerrke588595/travel": {
     "name": "travel",
+    "full_name": "Zhanerrke588595/travel",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/travel",
     "description": null,
     "created_at": "2025-07-12T19:12:08Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T19:17:27Z"
   },
-  {
-    "full_name": "Zhanerrke588595/tennis",
+  "Zhanerrke588595/tennis": {
     "name": "tennis",
+    "full_name": "Zhanerrke588595/tennis",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/tennis",
     "description": null,
     "created_at": "2025-07-12T18:29:37Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T18:41:28Z"
   },
-  {
-    "full_name": "Zhanerrke588595/shop",
+  "Zhanerrke588595/shop": {
     "name": "shop",
+    "full_name": "Zhanerrke588595/shop",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/shop",
     "description": null,
     "created_at": "2025-07-12T18:17:23Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-12T18:18:20Z"
   },
-  {
-    "full_name": "Zhanerrke588595/project2",
+  "Zhanerrke588595/project2": {
     "name": "project2",
+    "full_name": "Zhanerrke588595/project2",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/project2",
     "description": null,
     "created_at": "2025-03-31T07:42:57Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-31T07:43:55Z"
   },
-  {
-    "full_name": "Zhanerrke588595/project1",
+  "Zhanerrke588595/project1": {
     "name": "project1",
+    "full_name": "Zhanerrke588595/project1",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/project1",
     "description": null,
     "created_at": "2025-03-31T07:34:38Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-31T07:41:50Z"
   },
-  {
-    "full_name": "Zhanerrke588595/Build-and-Deploy-Ecommerce-Website",
+  "Zhanerrke588595/Build-and-Deploy-Ecommerce-Website": {
     "name": "Build-and-Deploy-Ecommerce-Website",
+    "full_name": "Zhanerrke588595/Build-and-Deploy-Ecommerce-Website",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/Build-and-Deploy-Ecommerce-Website",
     "description": "Learn How To Make Full Responsive Ecommerce Website Using HTML CSS & JavaScript. This is a free HTML CSS JavaScript Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step.",
     "created_at": "2025-03-12T10:33:55Z",
-    "readme_snippet": "# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript\n\n[<img alt=\"Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript\" width=\"100%\" src=\"https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true\" />](https://youtu.be/P8YuWEkTeuE/)\n..."
+    "updated_at": "2025-03-12T10:33:55Z"
   },
-  {
-    "full_name": "Zhanerrke588595/prj.fairoff",
+  "Zhanerrke588595/prj.fairoff": {
     "name": "prj.fairoff",
+    "full_name": "Zhanerrke588595/prj.fairoff",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/prj.fairoff",
     "description": null,
     "created_at": "2025-03-06T19:09:01Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-06T19:11:01Z"
   },
-  {
-    "full_name": "Zhanerrke588595/projectfairofficial",
+  "Zhanerrke588595/projectfairofficial": {
     "name": "projectfairofficial",
+    "full_name": "Zhanerrke588595/projectfairofficial",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/projectfairofficial",
     "description": null,
     "created_at": "2025-03-06T18:51:16Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-06T18:54:22Z"
   },
-  {
-    "full_name": "Zhanerrke588595/fiudtyuidryudr",
+  "Zhanerrke588595/fiudtyuidryudr": {
     "name": "fiudtyuidryudr",
+    "full_name": "Zhanerrke588595/fiudtyuidryudr",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/fiudtyuidryudr",
     "description": null,
     "created_at": "2025-03-05T17:05:14Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-05T17:10:26Z"
   },
-  {
-    "full_name": "Zhanerrke588595/SHOESS",
+  "Zhanerrke588595/SHOESS": {
     "name": "SHOESS",
+    "full_name": "Zhanerrke588595/SHOESS",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/SHOESS",
     "description": null,
     "created_at": "2025-03-05T06:34:17Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-05T06:35:42Z"
   },
-  {
-    "full_name": "Zhanerrke588595/mooonnnnn",
+  "Zhanerrke588595/mooonnnnn": {
     "name": "mooonnnnn",
+    "full_name": "Zhanerrke588595/mooonnnnn",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/mooonnnnn",
     "description": null,
     "created_at": "2025-02-25T18:35:13Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-25T18:36:11Z"
   },
-  {
-    "full_name": "Zhanerrke588595/characters",
+  "Zhanerrke588595/characters": {
     "name": "characters",
+    "full_name": "Zhanerrke588595/characters",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/characters",
     "description": null,
     "created_at": "2025-02-18T11:29:51Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-18T11:30:23Z"
   },
-  {
-    "full_name": "Zhanerrke588595/quottes",
+  "Zhanerrke588595/quottes": {
     "name": "quottes",
+    "full_name": "Zhanerrke588595/quottes",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/quottes",
     "description": null,
     "created_at": "2025-02-18T10:04:21Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-18T10:05:12Z"
   },
-  {
-    "full_name": "Zhanerrke588595/foood",
+  "Zhanerrke588595/foood": {
     "name": "foood",
+    "full_name": "Zhanerrke588595/foood",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/foood",
     "description": null,
     "created_at": "2025-02-17T07:36:45Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-17T07:37:51Z"
   },
-  {
-    "full_name": "Zhanerrke588595/calculatorr",
+  "Zhanerrke588595/calculatorr": {
     "name": "calculatorr",
+    "full_name": "Zhanerrke588595/calculatorr",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/calculatorr",
     "description": null,
     "created_at": "2025-02-12T09:17:24Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-12T09:18:18Z"
   },
-  {
-    "full_name": "Zhanerrke588595/facecard",
+  "Zhanerrke588595/facecard": {
     "name": "facecard",
+    "full_name": "Zhanerrke588595/facecard",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/facecard",
     "description": null,
     "created_at": "2025-02-04T19:00:51Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-04T19:13:24Z"
   },
-  {
-    "full_name": "Zhanerrke588595/calculator",
+  "Zhanerrke588595/calculator": {
     "name": "calculator",
+    "full_name": "Zhanerrke588595/calculator",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/calculator",
     "description": null,
     "created_at": "2025-02-04T03:56:35Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-04T03:59:11Z"
   },
-  {
-    "full_name": "Zhanerrke588595/task",
+  "Zhanerrke588595/task": {
     "name": "task",
+    "full_name": "Zhanerrke588595/task",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/task",
     "description": null,
     "created_at": "2025-01-28T11:39:31Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-28T11:40:07Z"
   },
-  {
-    "full_name": "Zhanerrke588595/office",
+  "Zhanerrke588595/office": {
     "name": "office",
+    "full_name": "Zhanerrke588595/office",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/office",
     "description": null,
     "created_at": "2025-01-28T10:47:47Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-28T10:48:47Z"
   },
-  {
-    "full_name": "Zhanerrke588595/classwork",
+  "Zhanerrke588595/classwork": {
     "name": "classwork",
+    "full_name": "Zhanerrke588595/classwork",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/classwork",
     "description": null,
     "created_at": "2025-01-28T09:35:17Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-28T09:35:46Z"
   },
-  {
-    "full_name": "Zhanerrke588595/h8yyguyf6fgoihj",
+  "Zhanerrke588595/h8yyguyf6fgoihj": {
     "name": "h8yyguyf6fgoihj",
+    "full_name": "Zhanerrke588595/h8yyguyf6fgoihj",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/h8yyguyf6fgoihj",
     "description": null,
     "created_at": "2025-01-27T17:52:22Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-27T17:52:57Z"
   },
-  {
-    "full_name": "Zhanerrke588595/sunnyy",
+  "Zhanerrke588595/sunnyy": {
     "name": "sunnyy",
+    "full_name": "Zhanerrke588595/sunnyy",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/sunnyy",
     "description": null,
     "created_at": "2025-01-25T19:18:48Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-25T19:19:37Z"
   },
-  {
-    "full_name": "Zhanerrke588595/sssss",
+  "Zhanerrke588595/sssss": {
     "name": "sssss",
+    "full_name": "Zhanerrke588595/sssss",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/sssss",
     "description": null,
     "created_at": "2025-01-25T19:14:18Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-25T19:15:32Z"
   },
-  {
-    "full_name": "Zhanerrke588595/suuun",
+  "Zhanerrke588595/suuun": {
     "name": "suuun",
+    "full_name": "Zhanerrke588595/suuun",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/suuun",
     "description": null,
     "created_at": "2025-01-25T18:49:37Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-25T18:51:35Z"
   },
-  {
-    "full_name": "Zhanerrke588595/sun",
+  "Zhanerrke588595/sun": {
     "name": "sun",
+    "full_name": "Zhanerrke588595/sun",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/sun",
     "description": null,
     "created_at": "2025-01-25T18:40:40Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-25T18:42:26Z"
   },
-  {
-    "full_name": "Zhanerrke588595/sunnysiide",
+  "Zhanerrke588595/sunnysiide": {
     "name": "sunnysiide",
+    "full_name": "Zhanerrke588595/sunnysiide",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/sunnysiide",
     "description": null,
     "created_at": "2025-01-25T18:35:24Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-25T18:37:47Z"
   },
-  {
-    "full_name": "Zhanerrke588595/sunny",
+  "Zhanerrke588595/sunny": {
     "name": "sunny",
+    "full_name": "Zhanerrke588595/sunny",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/sunny",
     "description": null,
     "created_at": "2025-01-25T18:29:49Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-25T18:31:59Z"
   },
-  {
-    "full_name": "Zhanerrke588595/time",
+  "Zhanerrke588595/time": {
     "name": "time",
+    "full_name": "Zhanerrke588595/time",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/time",
     "description": null,
     "created_at": "2025-01-25T14:49:28Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-25T14:51:29Z"
   },
-  {
-    "full_name": "Zhanerrke588595/homeworke",
+  "Zhanerrke588595/homeworke": {
     "name": "homeworke",
+    "full_name": "Zhanerrke588595/homeworke",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/homeworke",
     "description": null,
     "created_at": "2025-01-24T05:49:47Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-24T05:50:31Z"
   },
-  {
-    "full_name": "Zhanerrke588595/figmafigma",
+  "Zhanerrke588595/figmafigma": {
     "name": "figmafigma",
+    "full_name": "Zhanerrke588595/figmafigma",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/figmafigma",
     "description": null,
     "created_at": "2025-01-22T12:59:54Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-22T13:02:30Z"
   },
-  {
-    "full_name": "Zhanerrke588595/figma",
+  "Zhanerrke588595/figma": {
     "name": "figma",
+    "full_name": "Zhanerrke588595/figma",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/figma",
     "description": null,
     "created_at": "2025-01-22T12:13:17Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-22T12:15:35Z"
   },
-  {
-    "full_name": "Zhanerrke588595/bootstrap1",
+  "Zhanerrke588595/bootstrap1": {
     "name": "bootstrap1",
+    "full_name": "Zhanerrke588595/bootstrap1",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/bootstrap1",
     "description": null,
     "created_at": "2025-01-20T18:57:55Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-20T19:00:51Z"
   },
-  {
-    "full_name": "Zhanerrke588595/hhomework",
+  "Zhanerrke588595/hhomework": {
     "name": "hhomework",
+    "full_name": "Zhanerrke588595/hhomework",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/hhomework",
     "description": null,
     "created_at": "2025-01-19T08:36:20Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-19T08:36:58Z"
   },
-  {
-    "full_name": "Zhanerrke588595/fff",
+  "Zhanerrke588595/fff": {
     "name": "fff",
+    "full_name": "Zhanerrke588595/fff",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/fff",
     "description": null,
     "created_at": "2025-01-16T16:34:32Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-16T16:35:25Z"
   },
-  {
-    "full_name": "Zhanerrke588595/edupaage",
+  "Zhanerrke588595/edupaage": {
     "name": "edupaage",
+    "full_name": "Zhanerrke588595/edupaage",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/edupaage",
     "description": null,
     "created_at": "2025-01-16T10:59:07Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-16T11:01:54Z"
   },
-  {
-    "full_name": "Zhanerrke588595/edupage",
+  "Zhanerrke588595/edupage": {
     "name": "edupage",
+    "full_name": "Zhanerrke588595/edupage",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/edupage",
     "description": null,
     "created_at": "2025-01-16T10:54:48Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-16T10:54:48Z"
   },
-  {
-    "full_name": "Zhanerrke588595/telegram-page",
+  "Zhanerrke588595/telegram-page": {
     "name": "telegram-page",
+    "full_name": "Zhanerrke588595/telegram-page",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/telegram-page",
     "description": null,
     "created_at": "2025-01-16T05:59:00Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-16T06:00:36Z"
   },
-  {
-    "full_name": "Zhanerrke588595/eduuuuu",
+  "Zhanerrke588595/eduuuuu": {
     "name": "eduuuuu",
+    "full_name": "Zhanerrke588595/eduuuuu",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/eduuuuu",
     "description": null,
     "created_at": "2025-01-15T06:28:07Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-15T06:31:59Z"
   },
-  {
-    "full_name": "Zhanerrke588595/eduu",
+  "Zhanerrke588595/eduu": {
     "name": "eduu",
+    "full_name": "Zhanerrke588595/eduu",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/eduu",
     "description": null,
     "created_at": "2025-01-15T06:21:39Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-15T06:23:21Z"
   },
-  {
-    "full_name": "Zhanerrke588595/hhghghhg",
+  "Zhanerrke588595/hhghghhg": {
     "name": "hhghghhg",
+    "full_name": "Zhanerrke588595/hhghghhg",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/hhghghhg",
     "description": null,
     "created_at": "2025-01-14T10:37:54Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-14T10:38:38Z"
   },
-  {
-    "full_name": "Zhanerrke588595/home-task",
+  "Zhanerrke588595/home-task": {
     "name": "home-task",
+    "full_name": "Zhanerrke588595/home-task",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/home-task",
     "description": null,
     "created_at": "2025-01-13T14:59:24Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-13T15:00:26Z"
   },
-  {
-    "full_name": "Zhanerrke588595/task1",
+  "Zhanerrke588595/task1": {
     "name": "task1",
+    "full_name": "Zhanerrke588595/task1",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/task1",
     "description": null,
     "created_at": "2025-01-13T13:33:19Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-13T13:33:56Z"
   },
-  {
-    "full_name": "Zhanerrke588595/CLasswork-task",
+  "Zhanerrke588595/CLasswork-task": {
     "name": "CLasswork-task",
+    "full_name": "Zhanerrke588595/CLasswork-task",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/CLasswork-task",
     "description": null,
     "created_at": "2025-01-13T13:18:48Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-13T13:20:44Z"
   },
-  {
-    "full_name": "Zhanerrke588595/JYFUYF",
+  "Zhanerrke588595/JYFUYF": {
     "name": "JYFUYF",
+    "full_name": "Zhanerrke588595/JYFUYF",
     "owner": "Zhanerrke588595",
     "html_url": "https://github.com/Zhanerrke588595/JYFUYF",
     "description": null,
     "created_at": "2025-01-13T10:36:17Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-13T10:36:17Z"
   },
-  {
-    "full_name": "pressf2/git_test",
+  "pressf2/git_test": {
     "name": "git_test",
+    "full_name": "pressf2/git_test",
     "owner": "pressf2",
     "html_url": "https://github.com/pressf2/git_test",
     "description": null,
     "created_at": "2024-03-14T00:01:10Z",
-    "readme_snippet": "# git_test"
+    "updated_at": "2024-03-14T00:01:11Z"
   },
-  {
-    "full_name": "avtandilabildin2/Sky2Project",
+  "avtandilabildin2/Sky2Project": {
     "name": "Sky2Project",
+    "full_name": "avtandilabildin2/Sky2Project",
     "owner": "avtandilabildin2",
     "html_url": "https://github.com/avtandilabildin2/Sky2Project",
     "description": "Skypro second course project",
     "created_at": "2025-06-16T09:03:15Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-24T11:52:10Z"
   },
-  {
-    "full_name": "avtandilabildin2/MidTermSpring",
+  "avtandilabildin2/MidTermSpring": {
     "name": "MidTermSpring",
+    "full_name": "avtandilabildin2/MidTermSpring",
     "owner": "avtandilabildin2",
     "html_url": "https://github.com/avtandilabildin2/MidTermSpring",
     "description": "Midterm project using Spring",
     "created_at": "2025-03-18T09:15:54Z",
-    "readme_snippet": null
+    "updated_at": "2025-05-05T13:17:20Z"
   },
-  {
-    "full_name": "avtandilabildin2/FinalDatabaseProject",
+  "avtandilabildin2/FinalDatabaseProject": {
     "name": "FinalDatabaseProject",
+    "full_name": "avtandilabildin2/FinalDatabaseProject",
     "owner": "avtandilabildin2",
     "html_url": "https://github.com/avtandilabildin2/FinalDatabaseProject",
     "description": "Final database project with postgresql and swing",
     "created_at": "2024-12-12T12:29:20Z",
-    "readme_snippet": null
+    "updated_at": "2024-12-12T12:31:49Z"
   },
-  {
-    "full_name": "avtandilabildin2/TouristSystem",
+  "avtandilabildin2/TouristSystem": {
     "name": "TouristSystem",
+    "full_name": "avtandilabildin2/TouristSystem",
     "owner": "avtandilabildin2",
     "html_url": "https://github.com/avtandilabildin2/TouristSystem",
     "description": null,
     "created_at": "2024-07-26T05:34:15Z",
-    "readme_snippet": "Описание программы\n\nЭта программа консольная программа.Она предназначена для того чтобы работать через консоль с туристической системой.Программа решает проблемы с туристической системой.\nЭта программа позволяет управлять туристическими маршрутами и путеводителями.Это как бы сервис.В этом сервисе четыре вида пользователей гид,админ,турист,консьерж и ..."
+    "updated_at": "2024-07-26T05:39:27Z"
   },
-  {
-    "full_name": "avtandilabildin2/telegram",
+  "avtandilabildin2/telegram": {
     "name": "telegram",
+    "full_name": "avtandilabildin2/telegram",
     "owner": "avtandilabildin2",
     "html_url": "https://github.com/avtandilabildin2/telegram",
     "description": null,
     "created_at": "2024-07-24T08:55:04Z",
-    "readme_snippet": null
+    "updated_at": "2025-07-09T20:10:59Z"
   },
-  {
-    "full_name": "avtandilabildin2/mini_twitter",
+  "avtandilabildin2/mini_twitter": {
     "name": "mini_twitter",
+    "full_name": "avtandilabildin2/mini_twitter",
     "owner": "avtandilabildin2",
     "html_url": "https://github.com/avtandilabildin2/mini_twitter",
     "description": "The mini twitter in java program",
     "created_at": "2024-02-22T10:11:32Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-22T10:15:13Z"
   },
-  {
-    "full_name": "adylnurmatov/database-manga",
+  "adylnurmatov/database-manga": {
     "name": "database-manga",
+    "full_name": "adylnurmatov/database-manga",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/database-manga",
     "description": null,
     "created_at": "2024-12-15T16:06:07Z",
-    "readme_snippet": null
+    "updated_at": "2025-05-25T13:58:30Z"
   },
-  {
-    "full_name": "adylnurmatov/mangaLib",
+  "adylnurmatov/mangaLib": {
     "name": "mangaLib",
+    "full_name": "adylnurmatov/mangaLib",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/mangaLib",
     "description": null,
     "created_at": "2024-12-15T16:04:58Z",
-    "readme_snippet": "# mangaLib"
+    "updated_at": "2024-12-15T16:05:02Z"
   },
-  {
-    "full_name": "adylnurmatov/cursovaya",
+  "adylnurmatov/cursovaya": {
     "name": "cursovaya",
+    "full_name": "adylnurmatov/cursovaya",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/cursovaya",
     "description": null,
     "created_at": "2024-11-14T12:58:19Z",
-    "readme_snippet": "Презентация\n\nhttps://www.canva.com/design/DAGWpXZ1eQ0/27EAlkK7Q9a_6ncuLQfcYA/edit?utm_content=DAGWpXZ1eQ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    "updated_at": "2024-11-16T14:14:44Z"
   },
-  {
-    "full_name": "adylnurmatov/jumush-kg",
+  "adylnurmatov/jumush-kg": {
     "name": "jumush-kg",
+    "full_name": "adylnurmatov/jumush-kg",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/jumush-kg",
     "description": null,
     "created_at": "2024-10-30T03:43:40Z",
-    "readme_snippet": null
+    "updated_at": "2024-11-27T06:51:42Z"
   },
-  {
-    "full_name": "adylnurmatov/front-todolist-back",
+  "adylnurmatov/front-todolist-back": {
     "name": "front-todolist-back",
+    "full_name": "adylnurmatov/front-todolist-back",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/front-todolist-back",
     "description": null,
     "created_at": "2024-10-23T05:59:42Z",
-    "readme_snippet": null
+    "updated_at": "2024-10-23T06:02:23Z"
   },
-  {
-    "full_name": "adylnurmatov/loop-1-step-4",
+  "adylnurmatov/loop-1-step-4": {
     "name": "loop-1-step-4",
+    "full_name": "adylnurmatov/loop-1-step-4",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/loop-1-step-4",
     "description": null,
     "created_at": "2024-10-23T05:53:55Z",
-    "readme_snippet": "﻿# loop-1-step-4"
+    "updated_at": "2024-10-23T05:55:20Z"
   },
-  {
-    "full_name": "adylnurmatov/front-todolist",
+  "adylnurmatov/front-todolist": {
     "name": "front-todolist",
+    "full_name": "adylnurmatov/front-todolist",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/front-todolist",
     "description": null,
     "created_at": "2024-10-22T19:20:56Z",
-    "readme_snippet": "﻿# front-todolist"
+    "updated_at": "2024-12-07T14:55:12Z"
   },
-  {
-    "full_name": "adylnurmatov/test",
+  "adylnurmatov/test": {
     "name": "test",
+    "full_name": "adylnurmatov/test",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/test",
     "description": null,
     "created_at": "2024-09-24T17:14:50Z",
-    "readme_snippet": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\n\u0000\n\u0000"
+    "updated_at": "2024-09-24T17:19:13Z"
   },
-  {
-    "full_name": "adylnurmatov/cv_page",
+  "adylnurmatov/cv_page": {
     "name": "cv_page",
+    "full_name": "adylnurmatov/cv_page",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/cv_page",
     "description": null,
     "created_at": "2024-09-12T10:08:08Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-24T10:42:02Z"
   },
-  {
-    "full_name": "adylnurmatov/Esen-Agai-s-projects",
+  "adylnurmatov/Esen-Agai-s-projects": {
     "name": "Esen-Agai-s-projects",
+    "full_name": "adylnurmatov/Esen-Agai-s-projects",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/Esen-Agai-s-projects",
     "description": null,
     "created_at": "2024-09-10T18:12:03Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-13T10:38:28Z"
   },
-  {
-    "full_name": "adylnurmatov/todo",
+  "adylnurmatov/todo": {
     "name": "todo",
+    "full_name": "adylnurmatov/todo",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/todo",
     "description": null,
     "created_at": "2024-06-20T17:53:06Z",
-    "readme_snippet": null
+    "updated_at": "2024-06-20T17:54:31Z"
   },
-  {
-    "full_name": "adylnurmatov/adylnurmatov",
+  "adylnurmatov/adylnurmatov": {
     "name": "adylnurmatov",
+    "full_name": "adylnurmatov/adylnurmatov",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/adylnurmatov",
     "description": "Config files for my GitHub profile.",
     "created_at": "2024-06-14T10:06:48Z",
-    "readme_snippet": "# 👋 Hi there, I'm Адыл Нурматов\n\nI'm a **Java Backend Developer** with a passion for building scalable systems and clean architecture.  \nI enjoy working on backend services, RESTful APIs, and occasionally dabble in DevOps and testing."
+    "updated_at": "2025-04-09T17:21:04Z"
   },
-  {
-    "full_name": "adylnurmatov/wedding",
+  "adylnurmatov/wedding": {
     "name": "wedding",
+    "full_name": "adylnurmatov/wedding",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/wedding",
     "description": null,
     "created_at": "2024-05-11T12:15:58Z",
-    "readme_snippet": "Theme Selection\nConcept: A wedding planning and organization website.\nTarget Audience: Engaged couples, wedding planners, and vendors.\nPurpose: To provide a comprehensive resource for planning and organizing weddings seamlessly.\nDesign Concept"
+    "updated_at": "2024-05-11T17:45:58Z"
   },
-  {
-    "full_name": "adylnurmatov/demo",
+  "adylnurmatov/demo": {
     "name": "demo",
+    "full_name": "adylnurmatov/demo",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/demo",
     "description": null,
     "created_at": "2024-05-03T06:52:31Z",
-    "readme_snippet": null
+    "updated_at": "2024-05-03T06:53:10Z"
   },
-  {
-    "full_name": "adylnurmatov/Eco-Market",
+  "adylnurmatov/Eco-Market": {
     "name": "Eco-Market",
+    "full_name": "adylnurmatov/Eco-Market",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/Eco-Market",
     "description": null,
     "created_at": "2024-04-28T18:16:35Z",
-    "readme_snippet": null
+    "updated_at": "2024-08-23T14:56:38Z"
   },
-  {
-    "full_name": "adylnurmatov/hiroka",
+  "adylnurmatov/hiroka": {
     "name": "hiroka",
+    "full_name": "adylnurmatov/hiroka",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/hiroka",
     "description": null,
     "created_at": "2024-04-17T19:14:15Z",
-    "readme_snippet": "<h1>Mega Podcast 🟩🟣 </h1>\n\nThis project is a web-based podcast listening platform developed using Vaadin and Spring Boot. It is designed to provide a seamless experience for users who want to listen to podcasts online. The application is backed by a PostgreSQL database for user authorization and podcast data storage.\n<br>\n<h2>Features</h2>"
+    "updated_at": "2024-04-23T16:09:53Z"
   },
-  {
-    "full_name": "adylnurmatov/youtube-clone",
+  "adylnurmatov/youtube-clone": {
     "name": "youtube-clone",
+    "full_name": "adylnurmatov/youtube-clone",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/youtube-clone",
     "description": null,
     "created_at": "2024-03-29T09:45:16Z",
-    "readme_snippet": null
+    "updated_at": "2024-03-29T09:50:02Z"
   },
-  {
-    "full_name": "adylnurmatov/portfolio",
+  "adylnurmatov/portfolio": {
     "name": "portfolio",
+    "full_name": "adylnurmatov/portfolio",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/portfolio",
     "description": null,
     "created_at": "2024-03-29T08:16:08Z",
-    "readme_snippet": "this webpage is my personal portfolio.I have been doing this for 7 days.I hope you enjoy.\n\n------------------------------------------------------------------------------------------\nthe site consists of 6 parts.Home is an introduction here.\nWorks- here you can find projects that I am proud of."
+    "updated_at": "2024-03-29T08:17:38Z"
   },
-  {
-    "full_name": "adylnurmatov/minio-java",
+  "adylnurmatov/minio-java": {
     "name": "minio-java",
+    "full_name": "adylnurmatov/minio-java",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/minio-java",
     "description": "MinIO Client SDK for Java",
     "created_at": "2024-03-02T11:30:14Z",
-    "readme_snippet": "# MinIO Java SDK for Amazon S3 Compatible Cloud Storage [![Slack](https://slack.min.io/slack?type=svg)](https://slack.min.io)\n\nMinIO Java SDK is Simple Storage Service (aka S3) client to perform bucket and object operations to any Amazon S3 compatible object storage service.\n..."
+    "updated_at": "2024-03-02T11:30:14Z"
   },
-  {
-    "full_name": "adylnurmatov/hw",
+  "adylnurmatov/hw": {
     "name": "hw",
+    "full_name": "adylnurmatov/hw",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/hw",
     "description": null,
     "created_at": "2024-02-29T17:56:53Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-29T17:57:56Z"
   },
-  {
-    "full_name": "adylnurmatov/adylnurmatov.github.io",
+  "adylnurmatov/adylnurmatov.github.io": {
     "name": "adylnurmatov.github.io",
+    "full_name": "adylnurmatov/adylnurmatov.github.io",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/adylnurmatov.github.io",
     "description": null,
     "created_at": "2024-02-24T12:57:18Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-24T15:43:05Z"
   },
-  {
-    "full_name": "adylnurmatov/alatoo",
+  "adylnurmatov/alatoo": {
     "name": "alatoo",
+    "full_name": "adylnurmatov/alatoo",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/alatoo",
     "description": null,
     "created_at": "2024-02-21T15:57:55Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-21T15:59:07Z"
   },
-  {
-    "full_name": "adylnurmatov/currencyExchange",
+  "adylnurmatov/currencyExchange": {
     "name": "currencyExchange",
+    "full_name": "adylnurmatov/currencyExchange",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/currencyExchange",
     "description": null,
     "created_at": "2024-02-03T16:02:02Z",
-    "readme_snippet": "Small project to experiment with deploy"
+    "updated_at": "2024-02-03T16:04:18Z"
   },
-  {
-    "full_name": "adylnurmatov/bootcamp_todolist",
+  "adylnurmatov/bootcamp_todolist": {
     "name": "bootcamp_todolist",
+    "full_name": "adylnurmatov/bootcamp_todolist",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/bootcamp_todolist",
     "description": "java spring boot app",
     "created_at": "2024-01-20T14:14:49Z",
-    "readme_snippet": null
+    "updated_at": "2024-01-22T07:10:31Z"
   },
-  {
-    "full_name": "adylnurmatov/task-tracker",
+  "adylnurmatov/task-tracker": {
     "name": "task-tracker",
+    "full_name": "adylnurmatov/task-tracker",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/task-tracker",
     "description": "task",
     "created_at": "2024-01-13T18:49:11Z",
-    "readme_snippet": null
+    "updated_at": "2025-05-05T15:10:40Z"
   },
-  {
-    "full_name": "adylnurmatov/MotionDetection",
+  "adylnurmatov/MotionDetection": {
     "name": "MotionDetection",
+    "full_name": "adylnurmatov/MotionDetection",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/MotionDetection",
     "description": null,
     "created_at": "2023-12-13T15:43:19Z",
-    "readme_snippet": "Surveillance cameras play a crucial role in enhancing safety and protection. They act as a deterrent to potential criminals, provide valuable evidence in case of incidents, and contribute to overall public and private security.\n..."
+    "updated_at": "2024-01-24T11:24:15Z"
   },
-  {
-    "full_name": "adylnurmatov/WheelOfWonders",
+  "adylnurmatov/WheelOfWonders": {
     "name": "WheelOfWonders",
+    "full_name": "adylnurmatov/WheelOfWonders",
     "owner": "adylnurmatov",
     "html_url": "https://github.com/adylnurmatov/WheelOfWonders",
     "description": null,
     "created_at": "2023-10-23T04:13:47Z",
-    "readme_snippet": null
+    "updated_at": "2024-03-14T13:58:02Z"
   },
-  {
-    "full_name": "Ayvar22/Compress-Decompress",
+  "Ayvar22/Compress-Decompress": {
     "name": "Compress-Decompress",
+    "full_name": "Ayvar22/Compress-Decompress",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/Compress-Decompress",
     "description": null,
     "created_at": "2024-05-20T08:05:53Z",
-    "readme_snippet": "File-Compress-Decompress\nThis project implements a simple file compression and decompression system in C++. It includes programs for compressing and decompressing text files using the Run-Length Encoding (RLE) algorithm. The purpose of this project is to gain hands-on experience with data compression techniques and file manipulation in C++.\n..."
+    "updated_at": "2024-05-20T08:08:27Z"
   },
-  {
-    "full_name": "Ayvar22/Final-project-proposals-",
+  "Ayvar22/Final-project-proposals-": {
     "name": "Final-project-proposals-",
+    "full_name": "Ayvar22/Final-project-proposals-",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/Final-project-proposals-",
     "description": null,
     "created_at": "2024-05-16T07:56:06Z",
-    "readme_snippet": "Final-project- Aivar Alymkulov\n\nDescription- Creates and manages surveys, including adding, editing, and deleting survey questions and options.\n\nGoals- To make a program that will help with surveys."
+    "updated_at": "2024-05-17T10:36:10Z"
   },
-  {
-    "full_name": "Ayvar22/Calendar",
+  "Ayvar22/Calendar": {
     "name": "Calendar",
+    "full_name": "Ayvar22/Calendar",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/Calendar",
     "description": null,
     "created_at": "2024-05-16T07:37:05Z",
-    "readme_snippet": "# Calendar"
+    "updated_at": "2024-05-22T06:03:49Z"
   },
-  {
-    "full_name": "Ayvar22/Calculator",
+  "Ayvar22/Calculator": {
     "name": "Calculator",
+    "full_name": "Ayvar22/Calculator",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/Calculator",
     "description": null,
     "created_at": "2024-03-29T04:25:14Z",
-    "readme_snippet": "# Calculator"
+    "updated_at": "2024-03-29T04:25:15Z"
   },
-  {
-    "full_name": "Ayvar22/ECRYPTOR-DECRYPTORE",
+  "Ayvar22/ECRYPTOR-DECRYPTORE": {
     "name": "ECRYPTOR-DECRYPTORE",
+    "full_name": "Ayvar22/ECRYPTOR-DECRYPTORE",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/ECRYPTOR-DECRYPTORE",
     "description": null,
     "created_at": "2024-03-20T05:35:35Z",
-    "readme_snippet": "# ECRYPTOR-DECRYPTORE"
+    "updated_at": "2024-03-20T05:35:35Z"
   },
-  {
-    "full_name": "Ayvar22/Memory-Game",
+  "Ayvar22/Memory-Game": {
     "name": "Memory-Game",
+    "full_name": "Ayvar22/Memory-Game",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/Memory-Game",
     "description": null,
     "created_at": "2023-12-20T19:11:34Z",
-    "readme_snippet": null
+    "updated_at": "2023-12-20T19:20:04Z"
   },
-  {
-    "full_name": "Ayvar22/2array",
+  "Ayvar22/2array": {
     "name": "2array",
+    "full_name": "Ayvar22/2array",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/2array",
     "description": null,
     "created_at": "2023-12-20T18:45:48Z",
-    "readme_snippet": null
+    "updated_at": "2023-12-20T18:58:14Z"
   },
-  {
-    "full_name": "Ayvar22/test",
+  "Ayvar22/test": {
     "name": "test",
+    "full_name": "Ayvar22/test",
     "owner": "Ayvar22",
     "html_url": "https://github.com/Ayvar22/test",
     "description": null,
     "created_at": "2023-12-20T11:18:54Z",
-    "readme_snippet": "# test"
+    "updated_at": "2023-12-20T11:35:16Z"
   },
-  {
-    "full_name": "saltanat111/domus2",
+  "saltanat111/domus2": {
     "name": "domus2",
+    "full_name": "saltanat111/domus2",
     "owner": "saltanat111",
     "html_url": "https://github.com/saltanat111/domus2",
     "description": null,
     "created_at": "2025-05-26T05:34:03Z",
-    "readme_snippet": null
+    "updated_at": "2025-05-26T08:32:58Z"
   },
-  {
-    "full_name": "saltanat111/final-code-spring",
+  "saltanat111/final-code-spring": {
     "name": "final-code-spring",
+    "full_name": "saltanat111/final-code-spring",
     "owner": "saltanat111",
     "html_url": "https://github.com/saltanat111/final-code-spring",
     "description": null,
     "created_at": "2025-03-19T17:24:01Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-19T17:26:36Z"
   },
-  {
-    "full_name": "saltanat111/Student-Marking-System-Spring-Boot-",
+  "saltanat111/Student-Marking-System-Spring-Boot-": {
     "name": "Student-Marking-System-Spring-Boot-",
+    "full_name": "saltanat111/Student-Marking-System-Spring-Boot-",
     "owner": "saltanat111",
     "html_url": "https://github.com/saltanat111/Student-Marking-System-Spring-Boot-",
     "description": null,
     "created_at": "2025-03-16T05:50:40Z",
-    "readme_snippet": null
+    "updated_at": "2025-05-23T19:31:17Z"
   },
-  {
-    "full_name": "mshahnaza/gehsoft-hw",
+  "mshahnaza/gehsoft-hw": {
     "name": "gehsoft-hw",
+    "full_name": "mshahnaza/gehsoft-hw",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/gehsoft-hw",
     "description": null,
     "created_at": "2025-06-25T06:54:23Z",
-    "readme_snippet": null
+    "updated_at": "2025-06-25T07:10:41Z"
   },
-  {
-    "full_name": "mshahnaza/gehsoft-test",
+  "mshahnaza/gehsoft-test": {
     "name": "gehsoft-test",
+    "full_name": "mshahnaza/gehsoft-test",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/gehsoft-test",
     "description": null,
     "created_at": "2025-06-07T18:06:26Z",
-    "readme_snippet": "# Gehtsoft Entrance Test Assignment\n\nThis is a Java console application developed as part of the Gehtsoft Training Program entrance test. It includes two main functionalities:\n\n- **Caesar Cipher Encryption/Decryption** (supporting Russian and English text)"
+    "updated_at": "2025-06-07T18:43:36Z"
   },
-  {
-    "full_name": "mshahnaza/AutoSchool-front",
+  "mshahnaza/AutoSchool-front": {
     "name": "AutoSchool-front",
+    "full_name": "mshahnaza/AutoSchool-front",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/AutoSchool-front",
     "description": null,
     "created_at": "2025-05-22T10:48:24Z",
-    "readme_snippet": "# React + Vite\n\nThis template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.\n\nCurrently, two official plugins are available:"
+    "updated_at": "2025-07-06T06:50:51Z"
   },
-  {
-    "full_name": "mshahnaza/AutoSchool",
+  "mshahnaza/AutoSchool": {
     "name": "AutoSchool",
+    "full_name": "mshahnaza/AutoSchool",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/AutoSchool",
     "description": null,
     "created_at": "2025-05-19T08:13:09Z",
-    "readme_snippet": "# 🚗 Auto School Website System\n\n## 📘 1. Introduction\n\n### 1.1 Purpose"
+    "updated_at": "2025-05-27T07:18:40Z"
   },
-  {
-    "full_name": "mshahnaza/file-explorer",
+  "mshahnaza/file-explorer": {
     "name": "file-explorer",
+    "full_name": "mshahnaza/file-explorer",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/file-explorer",
     "description": "This project was developed collaboratively on GitLab",
     "created_at": "2025-04-09T09:06:35Z",
-    "readme_snippet": "# File Explorer 0.0\n\nДанный проект представляет собой файловый менеджер, разработанный в рамках курса Intensive Java от компании NurTelecom в качестве второго проектного задания."
+    "updated_at": "2025-04-09T09:20:01Z"
   },
-  {
-    "full_name": "mshahnaza/paint",
+  "mshahnaza/paint": {
     "name": "paint",
+    "full_name": "mshahnaza/paint",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/paint",
     "description": "This project was developed collaboratively by on GitLab",
     "created_at": "2025-04-09T08:50:51Z",
-    "readme_snippet": null
+    "updated_at": "2025-04-09T09:05:08Z"
   },
-  {
-    "full_name": "mshahnaza/task-flow",
+  "mshahnaza/task-flow": {
     "name": "task-flow",
+    "full_name": "mshahnaza/task-flow",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/task-flow",
     "description": null,
     "created_at": "2025-03-13T03:00:09Z",
-    "readme_snippet": "# Task Manager API\n\n## Overview\nTask Manager API is a Spring Boot-based project for managing tasks. It allows users to create, update, delete, and retrieve tasks using RESTful endpoints. The project uses an H2 in-memory database by default, making it easy to set up and test."
+    "updated_at": "2025-05-08T07:37:48Z"
   },
-  {
-    "full_name": "mshahnaza/dataBaseProject",
+  "mshahnaza/dataBaseProject": {
     "name": "dataBaseProject",
+    "full_name": "mshahnaza/dataBaseProject",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/dataBaseProject",
     "description": null,
     "created_at": "2025-01-11T11:16:53Z",
-    "readme_snippet": null
+    "updated_at": "2025-01-11T11:16:53Z"
   },
-  {
-    "full_name": "mshahnaza/frontend-final",
+  "mshahnaza/frontend-final": {
     "name": "frontend-final",
+    "full_name": "mshahnaza/frontend-final",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/frontend-final",
     "description": null,
     "created_at": "2024-12-13T18:07:14Z",
-    "readme_snippet": null
+    "updated_at": "2024-12-13T20:39:09Z"
   },
-  {
-    "full_name": "mshahnaza/midterm-webpage",
+  "mshahnaza/midterm-webpage": {
     "name": "midterm-webpage",
+    "full_name": "mshahnaza/midterm-webpage",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/midterm-webpage",
     "description": null,
     "created_at": "2024-10-30T08:53:40Z",
-    "readme_snippet": "Given design:\n![before](design/Loop%202%20-%20Step%204.png)\n\nMy design:\n![after](design/my%20design.png)"
+    "updated_at": "2024-10-30T09:36:44Z"
   },
-  {
-    "full_name": "mshahnaza/online_films",
+  "mshahnaza/online_films": {
     "name": "online_films",
+    "full_name": "mshahnaza/online_films",
     "owner": "mshahnaza",
     "html_url": "https://github.com/mshahnaza/online_films",
     "description": null,
     "created_at": "2024-01-12T09:44:17Z",
-    "readme_snippet": null
+    "updated_at": "2025-04-09T07:34:39Z"
   },
-  {
-    "full_name": "ysebo/Dayardan",
+  "ysebo/Dayardan": {
     "name": "Dayardan",
+    "full_name": "ysebo/Dayardan",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/Dayardan",
     "description": "Interview preparation system",
     "created_at": "2025-03-15T05:30:20Z",
-    "readme_snippet": "# Interview Preparation System\n\n## Overview\nThe Interview Preparation System is a Spring Boot-based backend application designed to facilitate interview sessions with multiple-choice questions. It allows users to start interview sessions, retrieve session questions, and submit answers while tracking correctness.\n## Table of Contents"
+    "updated_at": "2025-05-05T16:18:39Z"
   },
-  {
-    "full_name": "ysebo/PasswordGenerator",
+  "ysebo/PasswordGenerator": {
     "name": "PasswordGenerator",
+    "full_name": "ysebo/PasswordGenerator",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/PasswordGenerator",
     "description": null,
     "created_at": "2024-12-13T15:44:30Z",
-    "readme_snippet": "#4 time beggin Mr. Ilnar not to put 0"
+    "updated_at": "2024-12-20T19:33:53Z"
   },
-  {
-    "full_name": "ysebo/database_final_project",
+  "ysebo/database_final_project": {
     "name": "database_final_project",
+    "full_name": "ysebo/database_final_project",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/database_final_project",
     "description": "Hospital Management System",
     "created_at": "2024-12-09T17:44:50Z",
-    "readme_snippet": "# Hospital Management System\n\n## Project Overview..."
+    "updated_at": "2024-12-15T15:00:47Z"
   },
-  {
-    "full_name": "ysebo/Hospital-Management-System",
+  "ysebo/Hospital-Management-System": {
     "name": "Hospital-Management-System",
+    "full_name": "ysebo/Hospital-Management-System",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/Hospital-Management-System",
     "description": null,
     "created_at": "2024-12-05T19:11:03Z",
-    "readme_snippet": null
+    "updated_at": "2024-12-10T17:04:32Z"
   },
-  {
-    "full_name": "ysebo/last-task-frontend",
+  "ysebo/last-task-frontend": {
     "name": "last-task-frontend",
+    "full_name": "ysebo/last-task-frontend",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/last-task-frontend",
     "description": null,
     "created_at": "2024-12-02T09:08:20Z",
-    "readme_snippet": "#3 third time beggin MS. Ilnar not to put 0"
+    "updated_at": "2024-12-03T12:39:12Z"
   },
-  {
-    "full_name": "ysebo/react_task",
+  "ysebo/react_task": {
     "name": "react_task",
+    "full_name": "ysebo/react_task",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/react_task",
     "description": null,
     "created_at": "2024-12-01T11:32:00Z",
-    "readme_snippet": "# React + Vite\ntask #2 , second time of beggin Ms. Ilnar not to put 0"
+    "updated_at": "2024-12-01T12:43:45Z"
   },
-  {
-    "full_name": "ysebo/FilmVista",
+  "ysebo/FilmVista": {
     "name": "FilmVista",
+    "full_name": "ysebo/FilmVista",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/FilmVista",
     "description": "Final Project for Sofware Engineering",
     "created_at": "2024-11-02T19:02:44Z",
-    "readme_snippet": "# Movie Review Platform\n\nA platform for sharing opinions about movies, where users can leave reviews, rate films, and discuss what they have watched. The main goal of this project is to provide an easy-to-use interface for movie selection and user interaction, as well as to gather valuable feedback to improve content and marketing campaigns.\n\n## Technologies"
+    "updated_at": "2024-11-27T05:11:35Z"
   },
-  {
-    "full_name": "ysebo/MovieHub",
+  "ysebo/MovieHub": {
     "name": "MovieHub",
+    "full_name": "ysebo/MovieHub",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/MovieHub",
     "description": "This is a small webpage that allows user to add and showcase their favorite Movies! ",
     "created_at": "2024-10-30T04:57:16Z",
-    "readme_snippet": "# Contents of the website\n\n1. index.html - Contains the content of the home page.\n2. index.css - Contains the styling given to the home page.\n3. about.html - Contains some information about me."
+    "updated_at": "2024-10-30T04:57:16Z"
   },
-  {
-    "full_name": "ysebo/assets",
+  "ysebo/assets": {
     "name": "assets",
+    "full_name": "ysebo/assets",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/assets",
     "description": null,
     "created_at": "2024-10-26T11:37:41Z",
-    "readme_snippet": "# Midterm Project: Front-End Development\n\n## Overview\n\nThis project is a demonstration of skills acquired in our HTML/CSS front-end development course. It showcases the ability to create a responsive and visually appealing web application using modern HTML5 and CSS3 techniques."
+    "updated_at": "2024-10-29T11:01:06Z"
   },
-  {
-    "full_name": "ysebo/Frontend",
+  "ysebo/Frontend": {
     "name": "Frontend",
+    "full_name": "ysebo/Frontend",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/Frontend",
     "description": null,
     "created_at": "2024-10-26T09:13:12Z",
-    "readme_snippet": null
+    "updated_at": "2024-10-26T09:14:15Z"
   },
-  {
-    "full_name": "ysebo/FrontendTask",
+  "ysebo/FrontendTask": {
     "name": "FrontendTask",
+    "full_name": "ysebo/FrontendTask",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/FrontendTask",
     "description": null,
     "created_at": "2024-10-21T17:27:23Z",
-    "readme_snippet": null
+    "updated_at": "2024-10-21T17:27:51Z"
   },
-  {
-    "full_name": "ysebo/Calculator",
+  "ysebo/Calculator": {
     "name": "Calculator",
+    "full_name": "ysebo/Calculator",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/Calculator",
     "description": "swing ,awt practice",
     "created_at": "2024-09-21T16:08:04Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-29T12:32:03Z"
   },
-  {
-    "full_name": "ysebo/github.io",
+  "ysebo/github.io": {
     "name": "github.io",
+    "full_name": "ysebo/github.io",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/github.io",
     "description": null,
     "created_at": "2024-09-14T09:27:30Z",
-    "readme_snippet": "# Frontend CV Project\n\nWelcome to my Frontend CV project! This repository contains a personal CV webpage showcasing my skills, experience, and achievements as a Java programmer. The project highlights my abilities and provides a comprehensive overview of my professional journey.\n\n## Project Overview"
+    "updated_at": "2024-09-24T10:39:15Z"
   },
-  {
-    "full_name": "ysebo/ComputationalMath",
+  "ysebo/ComputationalMath": {
     "name": "ComputationalMath",
+    "full_name": "ysebo/ComputationalMath",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/ComputationalMath",
     "description": null,
     "created_at": "2024-09-10T19:06:05Z",
-    "readme_snippet": null
+    "updated_at": "2024-10-03T15:40:39Z"
   },
-  {
-    "full_name": "ysebo/Todo",
+  "ysebo/Todo": {
     "name": "Todo",
+    "full_name": "ysebo/Todo",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/Todo",
     "description": null,
     "created_at": "2024-06-22T13:49:45Z",
-    "readme_snippet": null
+    "updated_at": "2024-06-22T13:51:00Z"
   },
-  {
-    "full_name": "ysebo/RatingMovies",
+  "ysebo/RatingMovies": {
     "name": "RatingMovies",
+    "full_name": "ysebo/RatingMovies",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/RatingMovies",
     "description": null,
     "created_at": "2024-06-01T12:35:34Z",
-    "readme_snippet": "Dlya sebya , poimal tebya"
+    "updated_at": "2024-06-18T17:34:47Z"
   },
-  {
-    "full_name": "ysebo/Dordoi",
+  "ysebo/Dordoi": {
     "name": "Dordoi",
+    "full_name": "ysebo/Dordoi",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/Dordoi",
     "description": null,
     "created_at": "2024-05-22T18:17:22Z",
-    "readme_snippet": null
+    "updated_at": "2024-05-29T09:14:18Z"
   },
-  {
-    "full_name": "ysebo/prikol",
+  "ysebo/prikol": {
     "name": "prikol",
+    "full_name": "ysebo/prikol",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/prikol",
     "description": null,
     "created_at": "2024-05-11T22:50:37Z",
-    "readme_snippet": "# Erdan's Portfolio\n\nWelcome to my professional portfolio website! This site is a comprehensive showcase of my skills, projects, and educational background, designed and developed as part of the Web Design Mastery course. My portfolio demonstrates advanced CSS techniques, including Flexbox and Grid layouts, ensuring responsiveness and modern web design principles.\n\n## Project Objective"
+    "updated_at": "2024-09-15T17:28:51Z"
   },
-  {
-    "full_name": "ysebo/inai",
+  "ysebo/inai": {
     "name": "inai",
+    "full_name": "ysebo/inai",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/inai",
     "description": null,
     "created_at": "2024-04-26T10:53:16Z",
-    "readme_snippet": null
+    "updated_at": "2024-05-15T13:36:18Z"
   },
-  {
-    "full_name": "ysebo/chat",
+  "ysebo/chat": {
     "name": "chat",
+    "full_name": "ysebo/chat",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/chat",
     "description": null,
     "created_at": "2024-04-20T20:29:32Z",
-    "readme_snippet": "# Chat-test\n\nThis project can be used as a starting point to create your own Vaadin application with Spring Boot.\nIt contains all the necessary configuration and some placeholder files to get you started."
+    "updated_at": "2024-04-20T20:29:36Z"
   },
-  {
-    "full_name": "ysebo/eCommerce",
+  "ysebo/eCommerce": {
     "name": "eCommerce",
+    "full_name": "ysebo/eCommerce",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/eCommerce",
     "description": "eCommerce project with using Spring (Java) Back ",
     "created_at": "2024-01-31T12:43:26Z",
-    "readme_snippet": "![Screenshot 2024-03-13 082004](https://github.com/ysebo/eCommerce/assets/147805133/55dcf7fb-3538-45c7-86cb-ee3c59526c90)\n\n   ## Welcome to eCommerce application"
+    "updated_at": "2024-06-22T00:06:32Z"
   },
-  {
-    "full_name": "ysebo/LibraryProject",
+  "ysebo/LibraryProject": {
     "name": "LibraryProject",
+    "full_name": "ysebo/LibraryProject",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/LibraryProject",
     "description": "This is a library project where you can buy books and also you can add books to your favorites and to your bucket ",
     "created_at": "2024-01-11T11:51:21Z",
-    "readme_snippet": "# Library Travis \n\n[![Build Status](https://travis-ci.org/yourusername/your-library.svg?branch=master)](https://travis-ci.org/ysebo/library)\n[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)"
+    "updated_at": "2024-05-08T18:11:09Z"
   },
-  {
-    "full_name": "ysebo/kk",
+  "ysebo/kk": {
     "name": "kk",
+    "full_name": "ysebo/kk",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/kk",
     "description": "working on spring ",
     "created_at": "2024-01-10T08:11:05Z",
-    "readme_snippet": "# Spring Boot Learning Project\n\n## Overview"
+    "updated_at": "2024-01-19T10:26:17Z"
   },
-  {
-    "full_name": "ysebo/ysebo",
+  "ysebo/ysebo": {
     "name": "ysebo",
+    "full_name": "ysebo/ysebo",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/ysebo",
     "description": null,
     "created_at": "2023-12-15T18:49:37Z",
-    "readme_snippet": "![](https://github-readme-stats.vercel.app/api?username=ysebo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>\n![](https://github-readme-streak-stats.herokuapp.com/?user=ysebo&theme=radical)<br/>\n![](https://github-readme-stats.vercel.app/api/top-langs/?username=ysebo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)"
+    "updated_at": "2024-06-22T14:12:49Z"
   },
-  {
-    "full_name": "ysebo/image_to_text",
+  "ysebo/image_to_text": {
     "name": "image_to_text",
+    "full_name": "ysebo/image_to_text",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/image_to_text",
     "description": null,
     "created_at": "2023-12-11T18:43:27Z",
-    "readme_snippet": "## Overview\n\nThis Python project utilizes PyTesseract for Optical Character Recognition (OCR) to extract text from images. It provides a simple and efficient solution for converting images into editable text.\n\n## How It Works"
+    "updated_at": "2023-12-13T21:28:26Z"
   },
-  {
-    "full_name": "ysebo/license.plate.recognition",
+  "ysebo/license.plate.recognition": {
     "name": "license.plate.recognition",
+    "full_name": "ysebo/license.plate.recognition",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/license.plate.recognition",
     "description": null,
     "created_at": "2023-12-05T06:34:36Z",
-    "readme_snippet": null
+    "updated_at": "2023-12-05T06:36:15Z"
   },
-  {
-    "full_name": "ysebo/hexletgithub",
+  "ysebo/hexletgithub": {
     "name": "hexletgithub",
+    "full_name": "ysebo/hexletgithub",
     "owner": "ysebo",
     "html_url": "https://github.com/ysebo/hexletgithub",
     "description": null,
     "created_at": "2023-10-24T18:17:32Z",
-    "readme_snippet": "﻿no code no pain \nexperiment with amend\nexperiment with amend"
+    "updated_at": "2023-10-24T20:02:02Z"
   },
-  {
-    "full_name": "iianawoo/Back-end-FINAL-SPRING-BOOT-PROJECT",
+  "iianawoo/Back-end-FINAL-SPRING-BOOT-PROJECT": {
     "name": "Back-end-FINAL-SPRING-BOOT-PROJECT",
+    "full_name": "iianawoo/Back-end-FINAL-SPRING-BOOT-PROJECT",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Back-end-FINAL-SPRING-BOOT-PROJECT",
     "description": null,
     "created_at": "2025-05-05T17:19:04Z",
-    "readme_snippet": "# Back-end-FINAL-SPRING-BOOT-PROJECT\n# Final Project — Spring Boot To-Do List Application\n\n**Student:** Aiana Kutmanova  \n**Group:** COMSE-23"
+    "updated_at": "2025-05-12T09:55:17Z"
   },
-  {
-    "full_name": "iianawoo/Homework8-Kotlin",
+  "iianawoo/Homework8-Kotlin": {
     "name": "Homework8-Kotlin",
+    "full_name": "iianawoo/Homework8-Kotlin",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Homework8-Kotlin",
     "description": null,
     "created_at": "2025-04-03T05:31:59Z",
-    "readme_snippet": "ДЗ: Выполнить в проекте игры написанной на уроке.\n\n1. В классе Magic добавить реализацию способности увеличивать атаку каждого героя в течении 4-х первых раундов на n-ное количество.\n\n2. Выбрать 3-х героев из списка ниже и реализовать их супер способности:"
+    "updated_at": "2025-04-03T05:41:17Z"
   },
-  {
-    "full_name": "iianawoo/FoodApp",
+  "iianawoo/FoodApp": {
     "name": "FoodApp",
+    "full_name": "iianawoo/FoodApp",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/FoodApp",
     "description": null,
     "created_at": "2025-03-28T12:59:48Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-28T13:00:08Z"
   },
-  {
-    "full_name": "iianawoo/Maps",
+  "iianawoo/Maps": {
     "name": "Maps",
+    "full_name": "iianawoo/Maps",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Maps",
     "description": null,
     "created_at": "2025-03-26T17:28:25Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-26T17:28:54Z"
   },
-  {
-    "full_name": "iianawoo/Spring-Boot-App-Backend",
+  "iianawoo/Spring-Boot-App-Backend": {
     "name": "Spring-Boot-App-Backend",
+    "full_name": "iianawoo/Spring-Boot-App-Backend",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Spring-Boot-App-Backend",
     "description": null,
     "created_at": "2025-03-20T16:49:27Z",
-    "readme_snippet": "# 📝 To-Do List Application\n\nThis is a backend implementation of a simple To-Do List application built with **Spring Boot** as part of a midterm exam project.\n\n## 📌 Features"
+    "updated_at": "2025-03-22T00:43:26Z"
   },
-  {
-    "full_name": "iianawoo/calculator",
+  "iianawoo/calculator": {
     "name": "calculator",
+    "full_name": "iianawoo/calculator",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/calculator",
     "description": "android studio project",
     "created_at": "2025-03-18T12:09:00Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-18T12:23:43Z"
   },
-  {
-    "full_name": "iianawoo/EXAM-geeks",
+  "iianawoo/EXAM-geeks": {
     "name": "EXAM-geeks",
+    "full_name": "iianawoo/EXAM-geeks",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/EXAM-geeks",
     "description": null,
     "created_at": "2025-03-05T16:39:23Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-05T16:47:00Z"
   },
-  {
-    "full_name": "iianawoo/HW8",
+  "iianawoo/HW8": {
     "name": "HW8",
+    "full_name": "iianawoo/HW8",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/HW8",
     "description": null,
     "created_at": "2025-03-03T17:19:15Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-03T17:48:47Z"
   },
-  {
-    "full_name": "iianawoo/HW7",
+  "iianawoo/HW7": {
     "name": "HW7",
+    "full_name": "iianawoo/HW7",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/HW7",
     "description": null,
     "created_at": "2025-02-28T16:54:09Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-28T16:58:27Z"
   },
-  {
-    "full_name": "iianawoo/HW6",
+  "iianawoo/HW6": {
     "name": "HW6",
+    "full_name": "iianawoo/HW6",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/HW6",
     "description": null,
     "created_at": "2025-02-24T17:49:47Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-24T17:52:40Z"
   },
-  {
-    "full_name": "iianawoo/HW5",
+  "iianawoo/HW5": {
     "name": "HW5",
+    "full_name": "iianawoo/HW5",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/HW5",
     "description": null,
     "created_at": "2025-02-21T17:31:57Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-21T17:35:20Z"
   },
-  {
-    "full_name": "iianawoo/hw4",
+  "iianawoo/hw4": {
     "name": "hw4",
+    "full_name": "iianawoo/hw4",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/hw4",
     "description": null,
     "created_at": "2025-02-17T17:23:30Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-17T17:31:26Z"
   },
-  {
-    "full_name": "iianawoo/homework-geeks",
+  "iianawoo/homework-geeks": {
     "name": "homework-geeks",
+    "full_name": "iianawoo/homework-geeks",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/homework-geeks",
     "description": null,
     "created_at": "2025-02-14T17:04:19Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-14T17:06:12Z"
   },
-  {
-    "full_name": "iianawoo/HW2",
+  "iianawoo/HW2": {
     "name": "HW2",
+    "full_name": "iianawoo/HW2",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/HW2",
     "description": null,
     "created_at": "2025-02-10T16:12:00Z",
-    "readme_snippet": null
+    "updated_at": "2025-02-10T16:13:29Z"
   },
-  {
-    "full_name": "iianawoo/Pomodoro-final-project-",
+  "iianawoo/Pomodoro-final-project-": {
     "name": "Pomodoro-final-project-",
+    "full_name": "iianawoo/Pomodoro-final-project-",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Pomodoro-final-project-",
     "description": null,
     "created_at": "2024-12-21T02:53:58Z",
-    "readme_snippet": "JS/React Proejcts\n  Pomodoro Timer Requirements\nEasy:\nCreate a basic timer that counts down from 25 minutes.\nProvide a reset button to start a new session."
+    "updated_at": "2024-12-21T03:15:45Z"
   },
-  {
-    "full_name": "iianawoo/DATABASE-FINAL",
+  "iianawoo/DATABASE-FINAL": {
     "name": "DATABASE-FINAL",
+    "full_name": "iianawoo/DATABASE-FINAL",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/DATABASE-FINAL",
     "description": null,
     "created_at": "2024-12-15T17:44:12Z",
-    "readme_snippet": null
+    "updated_at": "2024-12-15T17:44:12Z"
   },
-  {
-    "full_name": "iianawoo/MID-PROJECT-FRONT_END",
+  "iianawoo/MID-PROJECT-FRONT_END": {
     "name": "MID-PROJECT-FRONT_END",
+    "full_name": "iianawoo/MID-PROJECT-FRONT_END",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/MID-PROJECT-FRONT_END",
     "description": null,
     "created_at": "2024-10-31T17:09:57Z",
-    "readme_snippet": "I tried to create a website from the folder named \"Loop 1 - Step 6\" that Mr. Ilnar sent."
+    "updated_at": "2024-10-31T17:19:21Z"
   },
-  {
-    "full_name": "iianawoo/Homework-Front-end",
+  "iianawoo/Homework-Front-end": {
     "name": "Homework-Front-end",
+    "full_name": "iianawoo/Homework-Front-end",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Homework-Front-end",
     "description": null,
     "created_at": "2024-10-31T08:52:43Z",
-    "readme_snippet": null
+    "updated_at": "2024-10-31T08:57:19Z"
   },
-  {
-    "full_name": "iianawoo/Computational-mathematics",
+  "iianawoo/Computational-mathematics": {
     "name": "Computational-mathematics",
+    "full_name": "iianawoo/Computational-mathematics",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Computational-mathematics",
     "description": null,
     "created_at": "2024-09-11T12:02:42Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-11T12:02:42Z"
   },
-  {
-    "full_name": "iianawoo/CV--profile",
+  "iianawoo/CV--profile": {
     "name": "CV--profile",
+    "full_name": "iianawoo/CV--profile",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/CV--profile",
     "description": null,
     "created_at": "2024-03-30T12:34:22Z",
-    "readme_snippet": "# Portfolio..."
+    "updated_at": "2024-09-16T14:23:34Z"
   },
-  {
-    "full_name": "iianawoo/Midterm-Assignment",
+  "iianawoo/Midterm-Assignment": {
     "name": "Midterm-Assignment",
+    "full_name": "iianawoo/Midterm-Assignment",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/Midterm-Assignment",
     "description": null,
     "created_at": "2024-03-29T14:22:38Z",
-    "readme_snippet": "# Midterm-Assignment\nThe site consists of 6 parts: 1)Home - little introduction; 2) About me - some personal info; 3) Resume - about my skills and experience; 4) Works - i added my previous projects; 5) Gallery - my photos; and 6) Contacts. \nTechnologies used: VS code...."
+    "updated_at": "2024-03-30T12:28:45Z"
   },
-  {
-    "full_name": "iianawoo/aianakutmanova.github.io",
+  "iianawoo/aianakutmanova.github.io": {
     "name": "aianakutmanova.github.io",
+    "full_name": "iianawoo/aianakutmanova.github.io",
     "owner": "iianawoo",
     "html_url": "https://github.com/iianawoo/aianakutmanova.github.io",
     "description": null,
     "created_at": "2024-02-24T17:12:16Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-24T17:15:03Z"
   },
-  {
-    "full_name": "temirbaevabermet/onlineCosmeticStore",
+  "temirbaevabermet/onlineCosmeticStore": {
     "name": "onlineCosmeticStore",
+    "full_name": "temirbaevabermet/onlineCosmeticStore",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/onlineCosmeticStore",
     "description": null,
     "created_at": "2025-03-17T12:04:49Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-17T12:04:49Z"
   },
-  {
-    "full_name": "temirbaevabermet/Backend_Project",
+  "temirbaevabermet/Backend_Project": {
     "name": "Backend_Project",
+    "full_name": "temirbaevabermet/Backend_Project",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/Backend_Project",
     "description": null,
     "created_at": "2025-03-15T09:23:05Z",
-    "readme_snippet": null
+    "updated_at": "2025-03-15T09:37:42Z"
   },
-  {
-    "full_name": "temirbaevabermet/backendProject",
+  "temirbaevabermet/backendProject": {
     "name": "backendProject",
+    "full_name": "temirbaevabermet/backendProject",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/backendProject",
     "description": null,
     "created_at": "2025-03-14T07:36:42Z",
-    "readme_snippet": "# Online Cosmetic Store Backend\n\n## 1. Introduction\n..."
+    "updated_at": "2025-05-04T23:18:28Z"
   },
-  {
-    "full_name": "temirbaevabermet/dataBaseProject",
+  "temirbaevabermet/dataBaseProject": {
     "name": "dataBaseProject",
+    "full_name": "temirbaevabermet/dataBaseProject",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/dataBaseProject",
     "description": null,
     "created_at": "2024-12-11T14:30:11Z",
-    "readme_snippet": null
+    "updated_at": "2024-12-15T17:44:08Z"
   },
-  {
-    "full_name": "temirbaevabermet/Frontend-course",
+  "temirbaevabermet/Frontend-course": {
     "name": "Frontend-course",
+    "full_name": "temirbaevabermet/Frontend-course",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/Frontend-course",
     "description": null,
     "created_at": "2024-09-23T09:47:47Z",
-    "readme_snippet": null
+    "updated_at": "2024-10-20T13:05:39Z"
   },
-  {
-    "full_name": "temirbaevabermet/https---github.com-temirbaevabermet-CV-web-page",
+  "temirbaevabermet/https---github.com-temirbaevabermet-CV-web-page": {
     "name": "https---github.com-temirbaevabermet-CV-web-page",
+    "full_name": "temirbaevabermet/https---github.com-temirbaevabermet-CV-web-page",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/https---github.com-temirbaevabermet-CV-web-page",
     "description": null,
     "created_at": "2024-09-14T16:58:45Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-14T20:38:43Z"
   },
-  {
-    "full_name": "temirbaevabermet/CV-web-page",
+  "temirbaevabermet/CV-web-page": {
     "name": "CV-web-page",
+    "full_name": "temirbaevabermet/CV-web-page",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/CV-web-page",
     "description": null,
     "created_at": "2024-09-14T16:56:47Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-14T16:56:47Z"
   },
-  {
-    "full_name": "temirbaevabermet/ComputationalMatematics",
+  "temirbaevabermet/ComputationalMatematics": {
     "name": "ComputationalMatematics",
+    "full_name": "temirbaevabermet/ComputationalMatematics",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/ComputationalMatematics",
     "description": null,
     "created_at": "2024-09-11T08:00:55Z",
-    "readme_snippet": "# ComputationalMatematics"
+    "updated_at": "2024-09-11T08:00:58Z"
   },
-  {
-    "full_name": "temirbaevabermet/Computational-mathematics-",
+  "temirbaevabermet/Computational-mathematics-": {
     "name": "Computational-mathematics-",
+    "full_name": "temirbaevabermet/Computational-mathematics-",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/Computational-mathematics-",
     "description": null,
     "created_at": "2024-09-11T04:59:32Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-11T04:59:32Z"
   },
-  {
-    "full_name": "temirbaevabermet/finalProject",
+  "temirbaevabermet/finalProject": {
     "name": "finalProject",
+    "full_name": "temirbaevabermet/finalProject",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/finalProject",
     "description": null,
     "created_at": "2024-05-12T17:22:34Z",
-    "readme_snippet": "In this project I chose a topic related to high technology. It consists of a navigation menu that helps you move easily between pages. \nDepending on the size of the gadget, the sizes of texts and pictures will change accordingly.\nThe first page is the main page where you can see the company logo, pictures, texts related to the topic, etc. ..."
+    "updated_at": "2024-05-12T17:43:15Z"
   },
-  {
-    "full_name": "temirbaevabermet/dataBase",
+  "temirbaevabermet/dataBase": {
     "name": "dataBase",
+    "full_name": "temirbaevabermet/dataBase",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/dataBase",
     "description": null,
     "created_at": "2024-04-22T05:25:31Z",
-    "readme_snippet": null
+    "updated_at": "2024-09-18T18:21:16Z"
   },
-  {
-    "full_name": "temirbaevabermet/profile-web-page",
+  "temirbaevabermet/profile-web-page": {
     "name": "profile-web-page",
+    "full_name": "temirbaevabermet/profile-web-page",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/profile-web-page",
     "description": null,
     "created_at": "2024-03-29T08:12:58Z",
-    "readme_snippet": "The first page is the main page. There you can see a navigation menu that helps you browse each page faster and more conveniently. A navigation menu is present on every page.\nThe second page contains information about me. This page mainly consists of texts; I also added gifs to make the web page more unusual and aesthetic...."
+    "updated_at": "2024-03-29T08:41:06Z"
   },
-  {
-    "full_name": "temirbaevabermet/oopProject",
+  "temirbaevabermet/oopProject": {
     "name": "oopProject",
+    "full_name": "temirbaevabermet/oopProject",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/oopProject",
     "description": null,
     "created_at": "2024-03-09T17:47:41Z",
-    "readme_snippet": null
+    "updated_at": "2024-03-09T17:51:19Z"
   },
-  {
-    "full_name": "temirbaevabermet/my-web-page",
+  "temirbaevabermet/my-web-page": {
     "name": "my-web-page",
+    "full_name": "temirbaevabermet/my-web-page",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/my-web-page",
     "description": null,
     "created_at": "2024-03-02T17:36:24Z",
-    "readme_snippet": null
+    "updated_at": "2024-03-02T17:37:43Z"
   },
-  {
-    "full_name": "temirbaevabermet/new-web-page",
+  "temirbaevabermet/new-web-page": {
     "name": "new-web-page",
+    "full_name": "temirbaevabermet/new-web-page",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/new-web-page",
     "description": null,
     "created_at": "2024-02-29T09:49:54Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-29T09:51:34Z"
   },
-  {
-    "full_name": "temirbaevabermet/web-pages",
+  "temirbaevabermet/web-pages": {
     "name": "web-pages",
+    "full_name": "temirbaevabermet/web-pages",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/web-pages",
     "description": null,
     "created_at": "2024-02-29T08:48:57Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-29T09:43:02Z"
   },
-  {
-    "full_name": "temirbaevabermet/university-web-page",
+  "temirbaevabermet/university-web-page": {
     "name": "university-web-page",
+    "full_name": "temirbaevabermet/university-web-page",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/university-web-page",
     "description": null,
     "created_at": "2024-02-28T12:49:18Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-28T12:51:21Z"
   },
-  {
-    "full_name": "temirbaevabermet/my-profile-page",
+  "temirbaevabermet/my-profile-page": {
     "name": "my-profile-page",
+    "full_name": "temirbaevabermet/my-profile-page",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/my-profile-page",
     "description": null,
     "created_at": "2024-02-23T18:39:26Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-23T18:43:08Z"
   },
-  {
-    "full_name": "temirbaevabermet/web-design2",
+  "temirbaevabermet/web-design2": {
     "name": "web-design2",
+    "full_name": "temirbaevabermet/web-design2",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/web-design2",
     "description": null,
     "created_at": "2024-02-20T19:09:45Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-20T19:13:21Z"
   },
-  {
-    "full_name": "temirbaevabermet/web-design",
+  "temirbaevabermet/web-design": {
     "name": "web-design",
+    "full_name": "temirbaevabermet/web-design",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/web-design",
     "description": null,
     "created_at": "2024-02-20T17:30:26Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-20T18:06:41Z"
   },
-  {
-    "full_name": "temirbaevabermet/first-webpage",
+  "temirbaevabermet/first-webpage": {
     "name": "first-webpage",
+    "full_name": "temirbaevabermet/first-webpage",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/first-webpage",
     "description": null,
     "created_at": "2024-02-15T09:15:25Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-15T09:15:32Z"
   },
-  {
-    "full_name": "temirbaevabermet/String-project",
+  "temirbaevabermet/String-project": {
     "name": "String-project",
+    "full_name": "temirbaevabermet/String-project",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/String-project",
     "description": null,
     "created_at": "2024-02-04T10:04:00Z",
-    "readme_snippet": null
+    "updated_at": "2024-02-04T10:04:00Z"
   },
-  {
-    "full_name": "temirbaevabermet/objectTracking",
+  "temirbaevabermet/objectTracking": {
     "name": "objectTracking",
+    "full_name": "temirbaevabermet/objectTracking",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/objectTracking",
     "description": null,
     "created_at": "2023-12-08T08:01:02Z",
-    "readme_snippet": "The code uses a ready-made file \"tracker.py\" that identifies the object.This code defines a class EuclideanDistTracker that implements an object tracker based on the Euclidean distance between the centers of detected objects![image](https://github.com/temirbaevabermet/objectTracking/assets/150419889/369286a9-3817-4165-be67-0869d664391c)"
+    "updated_at": "2023-12-14T13:49:18Z"
   },
-  {
-    "full_name": "temirbaevabermet/Matrix-project",
+  "temirbaevabermet/Matrix-project": {
     "name": "Matrix-project",
+    "full_name": "temirbaevabermet/Matrix-project",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/Matrix-project",
     "description": null,
     "created_at": "2023-11-27T18:00:49Z",
-    "readme_snippet": null
+    "updated_at": "2023-11-27T18:00:49Z"
   },
-  {
-    "full_name": "temirbaevabermet/Array-Project",
+  "temirbaevabermet/Array-Project": {
     "name": "Array-Project",
+    "full_name": "temirbaevabermet/Array-Project",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/Array-Project",
     "description": "Git and git-hub course",
     "created_at": "2023-11-20T20:28:47Z",
-    "readme_snippet": null
+    "updated_at": "2023-11-20T20:28:47Z"
   },
-  {
-    "full_name": "temirbaevabermet/hexlet-gitt",
+  "temirbaevabermet/hexlet-gitt": {
     "name": "hexlet-gitt",
+    "full_name": "temirbaevabermet/hexlet-gitt",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/hexlet-gitt",
     "description": null,
     "created_at": "2023-11-16T15:05:56Z",
-    "readme_snippet": "# hexlet-gitt"
+    "updated_at": "2023-11-16T15:05:56Z"
   },
-  {
-    "full_name": "temirbaevabermet/hexlet-git",
+  "temirbaevabermet/hexlet-git": {
     "name": "hexlet-git",
+    "full_name": "temirbaevabermet/hexlet-git",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/hexlet-git",
     "description": null,
     "created_at": "2023-11-12T15:58:08Z",
-    "readme_snippet": null
+    "updated_at": "2023-11-20T18:55:05Z"
   },
-  {
-    "full_name": "temirbaevabermet/new-file",
+  "temirbaevabermet/new-file": {
     "name": "new-file",
+    "full_name": "temirbaevabermet/new-file",
     "owner": "temirbaevabermet",
     "html_url": "https://github.com/temirbaevabermet/new-file",
     "description": null,
     "created_at": "2023-11-12T15:52:39Z",
-    "readme_snippet": null
+    "updated_at": "2023-11-12T15:52:40Z"
   }
-]
+}
